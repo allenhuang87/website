@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome To My Personal Blog Page
+title: 天下无双，精心网络
 subtitle:
-description:
-author: Huangdaode
-language:
-timezone:
+description: 
+author: 天无
+language: zh-Hans
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://allenhuang87.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -66,8 +66,8 @@ Plugins:
 - hexo-generator-sitemap
 - hexo-generator-feed
 ## Themes: http://hexo.io/themes/
-theme: pacman
-
+theme: next
+vatar: http://my.huhoo.net/archives/upload/linux_1.png
 #sitemap
 sitemap:
   path: sitemap.xml
