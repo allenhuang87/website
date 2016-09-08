@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 天下无双，精心网络
+title: 天下无双，专注网络
 subtitle:
 description: 
 author: 天无
@@ -28,7 +28,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -67,7 +67,7 @@ Plugins:
 - hexo-generator-feed
 ## Themes: http://hexo.io/themes/
 theme: next
-vatar: http://my.huhoo.net/archives/upload/linux_1.png
+avatar: http://my.huhoo.net/archives/upload/linux_1.png
 #sitemap
 sitemap:
   path: sitemap.xml
