@@ -74,8 +74,8 @@ sitemap:
 
 #Feed Atom
 feed:
-  type: atom
-  path: atom.xml
+  type: atom/rss
+  path: atom.xml/rss2.xml
   limit: 20
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
